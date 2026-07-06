@@ -60,5 +60,5 @@ Use the standard GameBoy controls or the controls provided by your emulator or b
 </p>  
 
 <p align="center">
-  Made with ❤️ in [GB Studio](https://www.gbstudio.dev)
+  Made with ❤️ in GB Studio
 </p>
