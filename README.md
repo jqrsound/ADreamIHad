@@ -43,3 +43,22 @@ Use the standard GameBoy controls or the controls provided by your emulator or b
 - B (Return/Attack) : x
 - Start (Quit) : Enter
 - Select (Menu) : Shift
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot/01.png" alt="Game screenshot" width="700">
+</p>
+<p align="center">
+  <img src="screenshot/02.png" alt="Game screenshot" width="700">
+</p>
+<p align="center">
+  <img src="screenshot/03.png" alt="Game screenshot" width="700">
+</p>
+<p align="center">
+  <img src="screenshot/04.png" alt="Game screenshot" width="700">
+</p>  
+
+<p align="center">
+  Made with ❤️ in [GB Studio](https://www.gbstudio.dev)
+</p>
